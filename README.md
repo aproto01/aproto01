@@ -1,16 +1,22 @@
-## Hi there 👋
+# Andreas Protopapas
 
-<!--
-**aproto01/aproto01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Student at the University of Cyprus focused on game development,
+computer graphics, and AI-driven interactive systems.
 
-Here are some ideas to get you started:
+## What I Work On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Game systems in Unity (C#) — physics, shaders, AI behaviour, persistent architecture
+- Algorithms that read and respond to real-time game state
+- Computer graphics — custom toon shaders in HLSL/ShaderLab
+
+## Projects
+
+- [SkyNefos — 3D Platformer](https://github.com/Loizosf4/3d-platformer-unity)
+  Unity · C# · Custom toon shader · Full game systems pipeline
+
+- [BigQuery ML Competition](https://github.com/aproto01/bigquery-ml-competition)
+  Kaggle · Python · Jupyter · ML model development
+
+## Connect
+
+- LinkedIn: linkedin.com/in/andreas-protopapas-42a0b0220
